@@ -1,6 +1,6 @@
 ---
 title: "HW 2"
-author: "Melissa Yee"
+author: "Melissa Yee -- UTEID:mky337"
 date: "2025-01-25"
 output:
   pdf_document:
@@ -10,6 +10,7 @@ output:
     toc_float: true
 ---
 
+Githib link: https://github.com/myee240/HW2 
 # **Problem 1: Beauty, or not, in the classroom**
 
 ### **Part A**
